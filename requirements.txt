@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+matplotlib
+gymnasium
+gymnasium[atari]
+gymnasium[box2d]
+ale-py
+Pillow
+tqdm
+jupyter
+notebook
